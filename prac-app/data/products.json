@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "I Phone",
+        "description": "Dummy Data",
+        "price": "600 USD",
+        "image": "https://images.unsplash.com/photo-1585730315692-5252e57d4b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1026&q=80",
+        "color": ["red"]
+    },
+    {
+        "id": 2,
+        "title": "T-shirts",
+        "description": "Dummy Data",
+        "price": "500 USD",
+        "image": "https://images.unsplash.com/photo-1585730315692-5252e57d4b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1026&q=80",
+        "color": "yellow"
+    },
+    {
+        "id": 3,
+        "title": "Motor Bike",
+        "description": "Dummy data",
+        "price": "50$",
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=999&q=80"
+    },
+    {
+        "id": 4,
+        "title": "Car",
+        "description": "Dummy data",
+        "price": "2000000$",
+        "image": "https://images.unsplash.com/photo-1606131731446-5568d87113aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+        "id": 5,
+        "title": "Bogati",
+        "description": "Dummy data",
+        "price": "2000000 USD",
+        "image": "https://m.media-amazon.com/images/I/51ePwTM1TAL._AC_UX679_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Black T-shirt",
+        "description": "Dummy data",
+        "price": "50 $",
+        "image": "https://m.media-amazon.com/images/I/71nnt43KdKL._AC_UX679_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Black T-shirt",
+        "description": "Dummy data",
+        "price": "50 $",
+        "image": "https://m.media-amazon.com/images/I/71S6J67JlmL._AC_UX569_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Black T-shirt",
+        "description": "Dummy data",
+        "price": "50 $",
+        "image": "https://m.media-amazon.com/images/I/81FEBg6V7EL._AC_SX569._SX._UX._SY._UY_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Black T-shirt",
+        "description": "Dummy data",
+        "price": "50 $",
+        "image": "https://m.media-amazon.com/images/I/71S6J67JlmL._AC_UX569_.jpg"
+    }
+]
